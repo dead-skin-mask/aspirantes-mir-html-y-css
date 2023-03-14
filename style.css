@@ -1,3 +1,45 @@
-body{
-    background-color: red;
+.formulario{
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#878996,#29282f);
+    border-radius: 20px;
+    color: azure;
+    box-shadow: 15px 15px 15px black;
+}
+.titulo{
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+ul{
+    list-style: none;
+    margin-left: -40px;
+}
+input{
+    padding: 7px;
+    width: 280px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+.select{
+    width: 298px;
+    padding: 7px;
+    border-radius: 10px;
+}
+.box{
+    box-sizing: border-box;
+    margin-left: -130px; 
+}
+.acepto{
+    position: relative;
+    bottom: 36px;
+    left: 20px;
+}
+.boton{
+    margin-left: 215px;
+    padding: 5px 15px 5px 15px;
+}
+.casilla{
+    margin-top: -30px;
 }
